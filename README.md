@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-url-shortening-web-app-using-htmlcssvanilla-js-Wn31SOdt2)
+- Live Site URL: [URL Shortener API Master](https://url-shortening-api-master.netlify.app/)
 
 ## My process
 
